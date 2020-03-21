@@ -9,6 +9,7 @@
 
 - [Descrição](#Descrição)
 - [Informações para Contato](#Informações-para-Contato)
+- [English](#English-Information)
 
 ---
 
@@ -22,7 +23,9 @@ Este Repositório contem os exercícios implementados do curso de MATLAB do cana
 
 ---
 
-
+## English Information
+For English speakers, at the end of the course I will be making available the repository with the codes in English.
+Some coding are already in English.
 ## Informações para Contato
 
 - YouTube   - [@ExataMenteS](https://www.youtube.com/channel/UCZyFebN0_gF2yy5fhVhlXtA)
