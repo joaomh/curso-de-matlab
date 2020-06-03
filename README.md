@@ -26,8 +26,8 @@ For English speakers, at the end of the course I will be making available the re
 Some coding are already in English.
 ## Informações para Contato
 
-- YouTube   - [@ExataMenteS](https://www.youtube.com/channel/UCZyFebN0_gF2yy5fhVhlXtA)
-- Facebook  - [@ExataMenteS](https://www.facebook.com/ExataMenteS/)
+- YouTube   - [@2001 Engenharia](https://www.youtube.com/channel/UCZyFebN0_gF2yy5fhVhlXtA)
+- Facebook  - [@@2001Engenharia](https://www.facebook.com/2001engenharia)
 - Instagram - [@joaomanoelhp](http://instagram.com/joaomanoelhp)
 ---
 [Voltar ao topo](#read-me-template)
