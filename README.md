@@ -13,7 +13,7 @@
 
 ## Descrição
 
-Este Repositório contem os exercícios implementados do curso de MATLAB do canal YouTube, ExataMenteS
+Este Repositório contem os exercícios implementados do curso de MATLAB do canal YouTube, 2001 Engenharia
 
 #### Tecnologia
 
