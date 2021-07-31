@@ -21,9 +21,6 @@ Este Repositório contem os exercícios implementados do curso de MATLAB do cana
 
 ---
 
-## English Information
-For English speakers, at the end of the course I will be making available the repository with the codes in English.
-Some coding are already in English.
 ## Informações para Contato
 
 - YouTube   - [@2001 Engenharia](https://www.youtube.com/channel/UCZyFebN0_gF2yy5fhVhlXtA)
